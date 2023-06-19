@@ -353,7 +353,10 @@ const PairwiseGame = ({ technologies, finishGame }) => {
             )}
           </div>
           {selectedCard !== null && !showGame && (
-            <div className="descriptors">
+            <div
+              className="descriptors"
+              style={{ position: "relative", top: "1em" }}
+            >
               <h3>How would you describe this card in 2 words?</h3>
               <div className="selected-card-descriptors">
                 <div className="bad-descriptors">
