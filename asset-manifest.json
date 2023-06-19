@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/scoreComparisonSetPercentageSplit/static/css/main.29233a7f.css",
+    "main.js": "/scoreComparisonSetPercentageSplit/static/js/main.b04f490d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/scoreComparisonSetPercentageSplit/static/js/787.28cb0dcd.chunk.js",
+    "static/media/robot-logo.png": "/scoreComparisonSetPercentageSplit/static/media/robot-logo.bc30243a1bd07d361c86.png",
+    "static/media/noBackgroundLoading.gif": "/scoreComparisonSetPercentageSplit/static/media/noBackgroundLoading.0941ef94294631b00019.gif",
+    "index.html": "/scoreComparisonSetPercentageSplit/index.html",
+    "main.29233a7f.css.map": "/scoreComparisonSetPercentageSplit/static/css/main.29233a7f.css.map",
+    "main.b04f490d.js.map": "/scoreComparisonSetPercentageSplit/static/js/main.b04f490d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/scoreComparisonSetPercentageSplit/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29233a7f.css",
+    "static/js/main.b04f490d.js"
+  ]
+}
