@@ -62,8 +62,8 @@
   }
   
   .descriptors {
-    position: absolute;
-    top: 25%; /* Add spacing between descriptors and cards */
+    position: relative;
+    top: 2em; /* Add spacing between descriptors and cards */
     width: 90%;
     max-width: 600px;
     left: 50%;
